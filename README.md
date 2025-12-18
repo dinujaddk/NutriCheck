@@ -1,5 +1,5 @@
 # 🥗 Diet Planning & Health Check-Up System
-## 🩺 Diet Planning & Health Check-Up System
+## 🩺 NutriCheck Diet Planning & Health Check-Up System
 
 The **Diet Planning and Health Check-Up System** is a user-friendly web platform designed to help individuals manage their **health and wellness** through personalized **diet plans** and **health check-ups**.  
 The system is accessible worldwide and provides **role-based dashboards** for doctors, dietitians, and receptionists to efficiently manage appointments and patient records.
