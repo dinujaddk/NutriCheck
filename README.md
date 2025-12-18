@@ -55,7 +55,7 @@ This repository includes the **preplanning phase** of the project, containing al
 | Frontend | HTML, CSS, JavaScript |
 | Backend  | PHP |
 | Database | MySQL |
-| Design   | Figma, Adobe Illustrator |
+| Design   | Figma, Adobe Illustrator, Canva |
 | Server   | XAMPP |
 
 ---
