@@ -10,9 +10,10 @@ This repository also includes the **preplanning phase** of the project, which co
 - User journeys  
 - Wireframes and UI/UX designs  
 - Adobe Illustrator prototypes  
-- System overview and feature planning  
+- System overview and feature planning
+- Design resources including Adobe Illustrator `.ai` User journey files, Figma UI/UX files, and Canva persona templates. 
 
-These documents provide a clear roadmap of the system’s structure and functionality before actual implementation.
+These resources were created by our group members and are available in this repository for reference or use in your own projects.
 
 ## Features
 
