@@ -20,7 +20,7 @@ These resources were created by our group members and are available in this repo
 - **Home Page:** Clear navigation with links and images to relevant pages.  
 - **Login & Registration:** Simple and secure user authentication.  
 - **Diet & Health Packages:** Explore and purchase diet plans and health check-up packages tailored to individual needs.  
-- **BMI Calculator:** Calculate BMI and receive personalized diet and health recommendations.  
+- **BMI Calculator:** Calculate BMI and receive personalized diet and health recommendations according to BMI.  
 - **Appointments:** Book appointments with doctors or dietitians on preferred dates and times.  
 - **Contact & About Us Pages:** Easily contact the team, learn about our mission, vision, and team, and read/write user reviews.  
 - **Admin Dashboard:** Allows healthcare providers to manage patients, appointments, and records efficiently.  
