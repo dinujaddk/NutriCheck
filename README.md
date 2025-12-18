@@ -7,13 +7,13 @@ The system is accessible worldwide and provides **role-based dashboards** for do
 ---
 
 ## 📌 Table of Contents
-- [Overview](#-overview)
-- [Preplanning](#-preplanning)
-- [Features](#-features)
-- [Technology Stack](#-technology-stack)
-- [Installation](#-installation)
-- [Contributors](#-contributors)
-- [Summary](#-summary)
+- [📖 Overview](#overview)
+- [🗂️ Preplanning](#preplanning)
+- [🚀 Features](#features)
+- [🛠️ Technology Stack](#technology-stack)
+- [📥 Installation](#installation)
+- [👥 Contributors](#contributors)
+- [📝 Summary](#summary)
 
 ---
 
@@ -29,9 +29,9 @@ This repository includes the **preplanning phase** of the project, containing al
 
 - 👥 User personas  
 - 🧭 User journeys  
-- 🎨 Wireframes & UI/UX designs  
+- 🎨 Wireframes and UI/UX designs  
 - 🖌️ Adobe Illustrator prototypes  
-- 📋 System overview & feature planning  
+- 📋 System overview and feature planning  
 
 ---
 
@@ -50,13 +50,13 @@ This repository includes the **preplanning phase** of the project, containing al
 
 ## 🛠️ Technology Stack
 
-| Layer        | Technology |
-|-------------|------------|
-| Frontend    | HTML, CSS, JavaScript |
-| Backend     | PHP |
-| Database    | MySQL |
-| Design      | Figma, Adobe Illustrator |
-| Server      | XAMPP |
+| Layer     | Technology |
+|----------|------------|
+| Frontend | HTML, CSS, JavaScript |
+| Backend  | PHP |
+| Database | MySQL |
+| Design   | Figma, Adobe Illustrator |
+| Server   | XAMPP |
 
 ---
 
@@ -67,6 +67,27 @@ This repository includes the **preplanning phase** of the project, containing al
 3. Import the database using **phpMyAdmin**
 4. Place the project folder inside the `htdocs` directory
 5. Open your browser and navigate to:
-
-```bash
 http://localhost/your-project-folder
+
+---
+
+## 👥 Contributors
+
+- 👤 **D D K Elesinghe**  
+- 👤 **E R Wickramaarachchi**  
+- 👤 **S A Weeriyasanka**  
+- 👤 **P G U R Bandara**  
+- 👤 **S M M P B Samarakoon**  
+
+---
+
+## 📝 Summary
+
+NutriCheck provides a comprehensive solution for both **patients and healthcare providers**, combining personalized diet planning with efficient appointment and record management.  
+With a clean interface, secure role-based access, and scalable architecture, the system improves healthcare accessibility and wellness management.
+
+---
+
+⭐ If you find this project useful, consider giving it a star on GitHub!
+
+
