@@ -3,6 +3,17 @@
 
 The **Diet Planning and Health Check-Up System** is a user-friendly web platform designed to help individuals manage their health and wellness through personalized diet plans and health check-ups. It is accessible worldwide and provides specialized admin dashboards for doctors, dietitians, and receptionists to manage appointments and patient records efficiently.
 
+## Preplanning
+
+This repository also includes the **preplanning phase** of the project, which contains all the design and planning artifacts created before development, such as:  
+- User personas  
+- User journeys  
+- Wireframes and UI/UX designs  
+- Adobe Illustrator prototypes  
+- System overview and feature planning  
+
+These documents provide a clear roadmap of the system’s structure and functionality before actual implementation.
+
 ## Features
 
 - **Home Page:** Clear navigation with links and images to relevant pages.  
